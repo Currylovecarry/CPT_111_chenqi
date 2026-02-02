@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>___Mr.Li is in his office now.Go and find him.</questionString>
+        <option>maybe</option>
+        <option answer="true">Maybe</option>
+        <option>May be</option>
+        <option>May</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Lucy.Please stop ___ me.My bike is broken.</questionString>
+        <option>helping</option>
+        <option answer="true">to help</option>
+        <option>help</option>
+        <option>helps</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Lucy has been to ___ many times this year.</questionString>
+        <option>his uncle</option>
+        <option answer="true">her uncle's</option>
+        <option>his uncles</option>
+        <option>his aunt</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>The dinosaur's eggs are found by explorers in the ___.</questionString>
+        <option>1920's</option>
+        <option answer="true">1920s</option>
+        <option>1920s'</option>
+        <option>1920'</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>___ my parents' help,I begin to catch up ___ my classmates.</questionString>
+        <option>With,to</option>
+        <option>Under,with</option>
+        <option>To,to</option>
+        <option>To,with</option>
+        <option answer="true">With,with</option>
+        <option>With,under</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>He dropped the ___ and broke it.</questionString>
+        <option>coffee's cup</option>
+        <option answer="true">cup of coffee</option>
+        <option>coffee cup</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Tom is one of the students who ___ from the USA in our school.</questionString>
+        <option answer="true">come</option>
+        <option>comes</option>
+        <option>came</option>
+        <option>coming</option>
+
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>English</topic>
+        <questionString>Tom's got few friends in China,___?</questionString>
+        <option>doesn't he</option>
+        <option answer="true">has he</option>
+        <option>has he</option>
+        <option>hasn't he</option>
+    </question>
+</questions>
+

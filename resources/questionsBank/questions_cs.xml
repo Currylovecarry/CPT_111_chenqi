@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a programming language?</questionString>
+        <option>XML</option>
+        <option answer="true">JAVA</option>
+        <option>CSGO</option>
+        <option>EXCEL</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the brain of the computer?</questionString>
+        <option>Monitor</option>
+        <option answer="true"> Central Processing Unit (CPU)</option>
+        <option>Keyboard</option>
+        <opti2n>Printer</opti2n>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What does RAM stand for?</questionString>
+        <option>Read-Only Memory</option>
+        <option answer="true">Random Access Memory</option>
+        <option>Hard Disk Drive</option>
+        <option>Solid State Drive</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the purpose of a graphics processing unit (GPU)?</questionString>
+        <option>To process mathematical calculations</option>
+        <option answer="true"> To render graphics and images for display</option>
+        <option>To store data temporarily</option>
+        <option>To connect to the internet</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which company created the Java programming language?</questionString>
+        <option>Microsoft</option>
+        <option> Apple</option>
+        <option> IBM</option>
+        <option>HUAWEI</option>
+        <option answer="true"> Sun Microsystems (now part of Oracle)</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a type of cloud computing service?</questionString>
+        <option>Fax machine</option>
+        <option answer="true">SaaS (Software as a Service)</option>
+        <option>Printer</option>
+        <option>Scanner</option>
+
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the main function of a firewall?</questionString>
+        <option answer="true">To protect a computer network from unauthorized access</option>
+        <option>To store data</option>
+        <option>To connect to the internet</option>
+        <option>To print documents</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following protocols is used for secure communication over a computer network?</questionString>
+        <option> FTP (File Transfer Protocol)</option>
+        <option answer="true">HTTPS (HyperText Transfer Protocol Secure)</option>
+        <option>HTTP (HyperText Transfer Protocol)</option>
+        <option>SMTP (Simple Mail Transfer Protocol)</option>
+    </question>
+</questions>
+

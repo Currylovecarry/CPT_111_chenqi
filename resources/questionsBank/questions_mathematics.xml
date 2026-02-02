@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Math</topic>
+        <questionString>There are 150 heads and 420 legs in the cage. How many chickens and rabbits are there in the cage?</questionString>
+        <option>150, 420</option>
+        <option answer="true">90, 60</option>
+        <option>60, 90</option>
+        <option>420, 150</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Math</topic>
+        <questionString>If x=4 then the square root(s) of x equals to?</questionString>
+        <option>0</option>
+        <option answer="true">2 or -2</option>
+        <option>2</option>
+        <option>-2</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Math</topic>
+        <questionString>Is infinity an exact number?</questionString>
+        <option>Yes</option>
+        <option answer="true">No</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Math</topic>
+        <questionString>A circle whose center is (0,0), radius is 1. A straight line whose equation is y=2x+1. What is the intersection point(s) of them?</questionString>
+        <option>0</option>
+        <option answer="true">0 or -0.8</option>
+        <option>0.8</option>
+        <option>-0.8</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Math</topic>
+        <questionString>Both the initial speed and acceleration are 1. What is the distance it moves after 3 seconds?</questionString>
+        <option>0.5</option>
+        <option>1</option>
+        <option>2.5</option>
+        <option>4</option>
+        <option answer="true">4.5</option>
+        <option>6</option>
+    </question><question difficulty="EASY">
+    <topic>Math</topic>
+    <questionString>$100 is deposited in the bank with annual interest 1%. How much money can be taken after 1 year?</questionString>
+    <option>$110</option>
+    <option answer="true">$101</option>
+    <option>$100.1</option>
+</question>
+    <question difficulty="MEDIUM">
+        <topic>Math</topic>
+        <questionString>Is it equal to the original number after a positive number is increased by 10% and then the total is decreased by 10%?</questionString>
+        <option answer="true">No</option>
+        <option>Yes</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Math</topic>
+        <questionString>The focuses of an ellipse are on x-axis, and its center is at the origin. Its eccentricity is 0.5, and it passes through (1, 1.5). Find its equation.</questionString>
+        <option>(x^2)/3 + (y^2)/4 = 1</option>
+        <option answer="true">(x^2)/4 + (y^2)/3 = 1</option>
+        <option>(x^2)/2 + y^2 = 1</option>
+        <option>x^2 + (y^2)/2 = 1</option>
+    </question>
+</questions>

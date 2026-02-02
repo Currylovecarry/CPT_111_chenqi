@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following circuits does Thevenin's theorem apply to?
+        </questionString>
+        <option>A. Circuits with only passive components</option>
+        <option answer="true">B. Any linear circuit</option>
+        <option>C. Circuits containing independent sources</option>
+        <option>D. Circuits containing controlled sources</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the formula for Ohm's law?</questionString>
+        <option>A. V=IR</option>
+        <option>B. I=V/R</option>
+        <option>C. R=V/I</option>
+        <option answer="true">D. all above </option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>[True or false ]A capacitor is equivalent to an open circuit in a direct current circuit.</questionString>
+        <option answer="true">A. T</option>
+        <option >B. F</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a communication system, under what conditions does the Maximum Power Transfer Theorem usually occur?</questionString>
+        <option>A. The impedance of the sending end and the receiving end is very different</option>
+        <option answer="true">B. The impedance of the sending end and the receiving end are equal </option>
+        <option>C. The impedance of the sending end and the receiving end is high impedance</option>
+        <option>D. The impedance of both the sending and receiving ends is low impedance</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>If a circuit contains a non-gate and an OR gate, and the output of the non-gate is connected to an input of the OR gate, what logical function does the circuit perform?</questionString>
+        <option answer="true">A. NAND gate</option>
+        <option>B. NOR gate</option>
+        <option>C. XOR gate</option>
+        <option>D. XNOR gate</option>
+        <option>E. AND gate</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a digital circuit, what type of signal is the output of a logic gate?</questionString>
+        <option>A. Analog signal</option>
+        <option answer="true">B. Digital signal</option>
+        <option>C. Radio frequency signals</option>
+        <option>D. Optical signal</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>How many bits of binary information can a simple flip-flop store in a digital circuit?</questionString>
+        <option answer="true">1 bit</option>
+        <option>2 bits</option>
+        <option>3 bits</option>
+        <option>4 bits</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main function of a D flip-flop in a digital circuit?</questionString>
+        <option>A. As a counter</option>
+        <option answer="true">B. Store one bit of binary data</option>
+        <option>C. As an oscillator</option>
+        <option>D. As an amplifier</option>
+    </question>
+</questions>
